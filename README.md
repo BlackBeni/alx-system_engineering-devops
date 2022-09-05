@@ -20,4 +20,5 @@ Task18. Life is a series of commas, not periods
 Task19. File type: School
 
 Task of shell permision
-  
+
+Task of shell redirections  
