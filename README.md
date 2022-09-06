@@ -21,4 +21,6 @@ Task19. File type: School
 
 Task of shell permision
 
-Task of shell redirections  
+Task of shell redirections 
+
+Task of shell variables expansions 
